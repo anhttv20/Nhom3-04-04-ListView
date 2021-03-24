@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nhom3-04-04-ListView</string>
+    <string-array name="Tech">
+        <item>Java</item>
+        <item>C/C++</item>
+        <item>Python</item>
+        <item>NoteJS</item>
+        <item>Script/CSS3</item>
+    </string-array>
+</resources>
